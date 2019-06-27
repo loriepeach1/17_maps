@@ -3,8 +3,14 @@
 ## Earthquakes over the last 7 days
 
 ### Tools & Technologies Used
-
-## Screen Images
+* HTML 5.0 & CSS
+* D3
+* Bootstrap Template for HTML
+* Leaflet
+* GeoJSON data
+* 2 data sources, real-time API calls provide the data
+<P>
+    
 ![Landing](Images/maps.png)
 
 ### Data Sets
